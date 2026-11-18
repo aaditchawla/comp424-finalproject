@@ -27,3 +27,7 @@
 !/agents/student_agent.py
 
 !/game_rules.txt
+
+!/Lectures/
+/Lectures/.DS_Store
+!/Goblet Gobblers Game.pdf
